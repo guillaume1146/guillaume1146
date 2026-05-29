@@ -1,8 +1,10 @@
 # Guillaume Rakotonjanahary Tsantaniaina Amboarasoa
 
-**Forward Deployed AI Engineer** — Co-founder & CTO @ [Wikolabs](https://wikolabs.com) · Tech Lead @ [Mediwyz](https://github.com/Mediwyz) · Cloud Architect @ [mgvaovao-Mdn](https://github.com/mgvaovao-Mdn)
+**Forward Deployed AI Engineer** — CEO & Tech Lead @ [Wikolabs](https://wikolabs.com) · Tech Lead @ [Mediwyz](https://github.com/Mediwyz) · Cloud Architect @ [mgvaovao-Mdn](https://github.com/mgvaovao-Mdn)
 
 MSc Artificial Intelligence — ESTIA Institute of Technology × IT University Madagascar
+
+> All production repositories live in organization accounts: [@Wikolabs](https://github.com/Wikolabs) · [@Mediwyz](https://github.com/Mediwyz) · [@mgvaovao-Mdn](https://github.com/mgvaovao-Mdn)
 
 ---
 
@@ -88,14 +90,14 @@ I engineer intelligent systems from commercial outcome to technical architecture
 
 ---
 
-## 🌐 Wikolabs — Applications & Landing Pages
+## 🌐 Wikolabs — Produits & Applications
 
 | Projet | Description | Stack |
 |---|---|---|
-| [wikolabs](https://github.com/Wikolabs/wikolabs) | Landing page Wikolabs — vitrine principale de l'agence IA | Next.js · TypeScript |
-| [bi-wikolabs-lp](https://github.com/Wikolabs/bi-wikolabs-lp) | Landing page BI Wikolabs — présentation du produit BI conversationnel | Next.js · TypeScript |
-| [productsearch-lp](https://github.com/Wikolabs/productsearch-lp) | Landing page ProductSearch — moteur de recherche produit IA | Next.js · TypeScript |
-| [prestasearch-lp](https://github.com/Wikolabs/prestasearch-lp) | Landing page PrestaSearch — matching prestataires IA | Next.js · TypeScript |
+| [wikolabs](https://github.com/Wikolabs/wikolabs) | Wikolabs — vitrine principale de l'agence IA | Next.js · TypeScript |
+| [bi-wikolabs-lp](https://github.com/Wikolabs/bi-wikolabs-lp) | BI Wikolabs — présentation du produit BI conversationnel | Next.js · TypeScript |
+| [productsearch-lp](https://github.com/Wikolabs/productsearch-lp) | ProductSearch — moteur de recherche produit IA | Next.js · TypeScript |
+| [prestasearch-lp](https://github.com/Wikolabs/prestasearch-lp) | PrestaSearch — matching prestataires IA | Next.js · TypeScript |
 | [piskid](https://github.com/Wikolabs/piskid) | Piskid — conseiller IA malgache inspiré du mpisikidy traditionnel | Next.js · TypeScript · Groq |
 | [okaiz](https://github.com/Wikolabs/okaiz) | Okaiz — marketplace de véhicules d'occasion à Madagascar | Next.js · TypeScript |
 | [wefreep](https://github.com/Wikolabs/wefreep) | WeFreep — plateforme de mise en relation freelance | Next.js · TypeScript |
