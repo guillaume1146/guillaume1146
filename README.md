@@ -1,10 +1,26 @@
-# Guillaume Rakotonjanahary
+# Guillaume Rakotonjanahary Tsantaniaina Amboarasoa
 
-**Ingénieur IA & Full-Stack** — conception, développement et déploiement de systèmes IA en production.
+**Forward Deployed AI Engineer** — Co-founder & CTO @ [Wikolabs](https://wikolabs.com) · Tech Lead @ [Mediwyz](https://github.com/Mediwyz) · Cloud Architect @ [mgvaovao-Mdn](https://github.com/mgvaovao-Mdn)
 
-> Co-fondateur technique @ [**Wikolabs**](https://github.com/Wikolabs) · Architecte @ [**Mediwyz**](https://github.com/Mediwyz) · Ingénieur ML @ [**mgvaovao-Mdn**](https://github.com/mgvaovao-Mdn)
+MSc Artificial Intelligence — ESTIA Institute of Technology × IT University Madagascar
 
-`Python` `TypeScript` `Next.js` `FastAPI` `LangChain` `LangGraph` `Docker` `GitHub Actions`
+---
+
+Businesses drown in data they cannot act on, lose clients to faster competitors, and run processes that still wait on humans.
+
+I engineer intelligent systems from commercial outcome to technical architecture — autonomously, from conception to production. I work with founders and technical leads to close that gap, remotely worldwide.
+
+**What I build:**
+
+- **Search & Recommendation** — hybrid retrieval combining semantic, lexical, knowledge graph, and multimodal search across text, image, and structured data for catalogue discovery, service matching, and personalized retrieval
+- **Full-stack AI systems** — RAG platforms, data pipelines, model training & fine-tuning, MLOps automation, support intelligence covering triage, escalation, and SLA — engineered with agentic Claude Code
+- **Decision intelligence** — forecasting, anomaly detection, CRM and multi-agent platforms covering scoring, pipeline orchestration, retention and reactivation, connected through MCP with RL optimizing every decision
+- **Commercial automation** — full cycle end-to-end: lead sourcing, BANT scoring, multichannel outreach (email, LinkedIn, cold call), appointment setting, call intelligence, CRM automation
+- **Multimodal pipelines** — OCR, document extraction, contract parsing, object detection, segmentation, BIM, point cloud, geolocation across industrial, construction, retail, and supply chain environments
+
+`Python` `TypeScript` `Next.js` `FastAPI` `LangChain` `LangGraph` `Docker` `GitHub Actions` `GCP` `Vertex AI` `WebRTC` `pgvector` `MongoDB`
+
+🌐 [guillaume.wikolabs.com](https://guillaume.wikolabs.com)
 
 ---
 
@@ -90,7 +106,7 @@
 
 | Projet | Description | Stack |
 |---|---|---|
-| [platform](https://github.com/Mediwyz/platform) | Plateforme SaaS multi-pays — connecte patients et 17+ types de prestataires de santé (Maurice, Madagascar, Kenya, Togo, Bénin, Rwanda). Moteur de workflow configurable, vidéo/chat temps réel, SaaS assurance, assistant IA santé | Next.js 15 · NestJS 10 · Flutter · PostgreSQL · Socket.IO · WebRTC |
+| [platform](https://github.com/Mediwyz/platform) | Plateforme SaaS multi-pays — connecte patients et 17+ types de prestataires de santé (Maurice, Madagascar, Kenya, Togo, Bénin, Rwanda). Moteur de workflow configurable, vidéo/chat temps réel, SaaS assurance, assistant IA santé, paiement mobile MCB Juice, pipeline OCR VLM pour vérification de licences médicales | Next.js 15 · NestJS 10 · Flutter · PostgreSQL · Socket.IO · WebRTC |
 
 ---
 
@@ -98,10 +114,10 @@
 
 | Projet | Description | Stack |
 |---|---|---|
-| [ml](https://github.com/mgvaovao-Mdn/ml) | Pipeline speech-to-speech temps réel — traduction de 6 langues (FR · EN · DE · ES · IT · PT) vers les dialectes malgaches. Architecture cascade WhisperX → NLLB-200 → Coqui TTS via WebRTC. Construit pour Maison du Numérique Madagascar | Python · WhisperX · NLLB-200 · Coqui TTS · FastAPI · WebRTC |
-| [Frontend](https://github.com/mgvaovao-Mdn/Frontend) | Interface web — plateforme d'accès à la traduction et portail communautaire | TypeScript · Next.js |
-| [backend-IA](https://github.com/mgvaovao-Mdn/backend-IA) | Backend IA — API d'orchestration des modèles et gestion des flux audio | Python · FastAPI |
+| [ml](https://github.com/mgvaovao-Mdn/ml) | Pipeline speech-to-speech temps réel — traduction de 6 langues (FR · EN · DE · ES · IT · PT) vers dialectes malgaches. Architecture : Silero VAD → Whisper large-v3-turbo INT8 → LoRA NLLB-200 → MMS-TTS-MLG VITS. Fine-tuning distribué sur Vertex AI NVIDIA L4, inférence sur Cloud Run GPU. Construit pour Maison du Numérique Madagascar | Python · WhisperX · NLLB-200 · Coqui TTS · FastAPI · WebRTC · GCP Vertex AI |
+| [Frontend](https://github.com/mgvaovao-Mdn/Frontend) | Interface web — portail d'accès à la traduction et plateforme communautaire | TypeScript · Next.js |
+| [backend-IA](https://github.com/mgvaovao-Mdn/backend-IA) | Backend IA — API d'orchestration des modèles et gestion des flux audio temps réel | Python · FastAPI |
 
 ---
 
-*Déploiement : Docker · GitHub Actions · VPS · nginx*
+*Déploiement : Docker · GitHub Actions · GCP Cloud Run · Vertex AI · VPS · nginx*
